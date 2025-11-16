@@ -1,0 +1,30 @@
+# FREE Requirements - No API Costs
+# requirements_free.txt
+
+# Core UI
+streamlit==1.28.0
+streamlit-option-menu==0.3.6
+
+# NLP & Summarization (All FREE)
+transformers==4.34.0
+torch==2.1.0
+spacy==3.7.2
+
+# Video Processing (All FREE)
+moviepy==1.0.3
+opencv-python==4.8.1.78
+yt-dlp==2023.11.16
+
+# Speech-to-Text (FREE Options)
+SpeechRecognition==3.10.0
+vosk==0.3.45
+pocketsphinx==0.1.15
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+pandas==2.1.2
+numpy==1.24.3
+
+# Optional but helpful
+pyaudio==0.2.13  # For live microphone input (optional)
