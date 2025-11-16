@@ -1,38 +1,10 @@
-# Optimized Requirements - Easy Install
-# requirements_free_optimized.txt
+# Cloud-Optimized Requirements for Streamlit Cloud Deployment
+# requirements.txt - Copy this exactly
 
-# Core UI (Essential)
 streamlit==1.28.0
-
-# NLP & ML (Essential)
 transformers==4.30.0
 torch==2.0.1
 spacy==3.6.0
-
-# Video Processing (Essential)
-moviepy==1.0.3
-yt-dlp==2023.11.16
-
-# Speech Recognition (Optional - starts minimal)
-SpeechRecognition==3.10.0
-
-# Utilities
-python-dotenv==1.0.0
 requests==2.31.0
 numpy==1.24.3
 regex==2023.11.8
-
----
-
-# ALTERNATIVE: Minimal Install (Start Here!)
-# requirements_free_minimal.txt
-
-streamlit==1.28.0
-transformers==4.30.0
-torch==2.0.1
-spacy==3.6.0
-moviepy==1.0.3
-yt-dlp==2023.11.16
-SpeechRecognition==3.10.0
-python-dotenv==1.0.0
-requests==2.31.0
