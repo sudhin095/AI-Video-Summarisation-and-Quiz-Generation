@@ -1,3 +1,6 @@
+# FREE Version: AI Video Summarization & Quiz Generation
+# app_free.py - Completely FREE alternative to paid APIs
+
 import streamlit as st
 import os
 import tempfile
